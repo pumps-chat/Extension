@@ -76,3 +76,7 @@ If you find a bug, please create an issue with:
 - Expected behavior
 - Screenshots (if applicable)
 - Browser version and OS
+
+## Socials
+Twitter : https://x.com/pumpschat
+Official website : pumps.chat
