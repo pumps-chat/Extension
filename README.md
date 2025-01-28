@@ -79,4 +79,4 @@ If you find a bug, please create an issue with:
 
 ## Socials
 - Twitter : https://x.com/pumpschat
-- Official website : pumps.chat
+- Official website : https://pumps.chat
