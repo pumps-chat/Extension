@@ -48,7 +48,7 @@ A Chrome extension that adds a chat interface to popular trading platforms, allo
 1. Clone this repository
 ```bash
 git clone https://github.com/pumps-chat/Extension
-cd pumps-chat-extension
+cd Extension
 ```
 
 2. Load the extension in Chrome:
