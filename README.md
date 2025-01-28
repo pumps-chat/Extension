@@ -31,7 +31,7 @@ A Chrome extension that adds a chat interface to popular trading platforms, allo
 
 ## Usage
 1. Visit any supported trading platform
-2. Click the extension icon in your browser toolbar
+2. Click Any token
 3. Enter your username and optionally add a profile picture
 4. Start chatting with other traders
 
