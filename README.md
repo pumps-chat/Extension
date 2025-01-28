@@ -32,7 +32,7 @@ A Chrome extension that adds a chat interface to popular trading platforms, allo
  Development Setup
 1. Clone this repository
 ```bash
-git clone https://github.com/pumps.chat/extension
+git clone https://github.com/pumps-chat/extension
 cd extension
 ```
 
