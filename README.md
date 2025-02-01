@@ -78,5 +78,5 @@ If you find a bug, please create an issue with:
 - Browser version and OS
 
 ## Socials
-- Twitter : https://x.com/pumpschat
+- Twitter : https://x.com/
 - Official website : https://pumps.chat
